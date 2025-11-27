@@ -9,7 +9,7 @@ Web developer & Sys Admin @ **[Esparta Digital](https://www.espartadigital.com)*
 
 ## Main Projects
 - **[VANTAG.es](https://vantag.es)** - Open source projects, automation & web development
-- [**[Web vitals]](https://chromewebstore.google.com/detail/web-vitals/illmkcoedmdanbkoihjpipllkaoakccm)** - Google Chrome extension
+- **[Web vitals]](https://chromewebstore.google.com/detail/web-vitals/illmkcoedmdanbkoihjpipllkaoakccm)** - Google Chrome extension
 
 ## What I Do
 - Custom functionality for online stores
