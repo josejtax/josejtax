@@ -20,7 +20,7 @@ I build solutions focused on business needs, from custom development to infrastr
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 * **Languages & Frameworks:** PHP, JavaScript, Astro, Liquid.
 * **CMS & E-commerce:** WordPress, Shopify, Hubspot.
