@@ -15,7 +15,6 @@ I build solutions focused on business needs, from custom development to infrastr
 ### Personal projects
 
 * **[VANTAG.es](https://vantag.es):** My open-source hub and R&D lab. Focused on custom solutions, web pentesting, and SEO experimentation.
-* **[jmfernandez.dev](https://jmfernandez.dev):** Personal brand dedicated to Web Performance. 
 * Maintaining the **Web Vitals** extension fork
 
 ---
